@@ -1,0 +1,24 @@
+body{
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+	font-size: 13px;
+}
+.recherche{
+	margin-bottom: 20px;
+}
+.bloc-user{
+	color: black;
+}
+.single-user{
+	max-height: 170px;
+	height: 170px;
+}
+.single-user-well{
+	max-height: 155px;
+	height: 155px;
+}
+.adresse{
+	overflow: hidden;
+}
+.gap{
+  height: 50px;
+}

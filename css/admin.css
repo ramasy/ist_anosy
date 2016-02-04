@@ -1,0 +1,21 @@
+body
+{
+	font-family: 'Trebuchet MS', Arial, sans-serif;
+		font-size: 13px;
+}
+.deca-haut-b{
+	margin-top: 20px;
+}
+.active-hand{
+  cursor: pointer;
+}
+.gap{
+  height: 52px;
+}
+.gap2{
+  height: 20px;
+}
+.bloc-admin{
+	border: 2px solid #E3E3E3;
+  border-radius: 6px;
+}
